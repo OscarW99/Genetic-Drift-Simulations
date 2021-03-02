@@ -2,10 +2,10 @@
 Genetic drift is the change in the frequency of an (gene variant) in a population over multiple generations. An individual’s alleles are a sample of those in present their parents and chance has a role in determining whether that individual will survive and reproduce. Genetic drift may cause gene variants to disappear completely from a population and thereby reduce genetic variation. This code simulates two simple genetic drift models. 
 
 
-required packages:**matplotlib**, **random**
+required packages: **matplotlib**, **random**
 
 
-#**Simulation 1**#
+# **Simulation 1**
 
 Start with population of 100, half of which have allele ‘A’ and half which have allele ‘B’.
 computes 1000 generations where with each generation an allele from the current population is randomly selected and added to a new population.
@@ -16,7 +16,7 @@ Produces a plot that shows the change in allele frequency with each generation, 
 
 
 
-#**Simulation 2 **#
+# **Simulation 2 **
 
 Start with population of 100.
 This time there are 2 alleles for a gene ‘A’ present in each individual. The
