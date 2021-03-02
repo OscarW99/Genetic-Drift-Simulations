@@ -30,7 +30,7 @@ maturity to breed.
 The population size remains static at 100 after each generation.
 With each generation one allele from each random individual is combined with one
 allele from another random individual to create a new population of 100. As ‘aa’ is only 80%
-successful it means that in the new population only includes 80% of those created (so 1 in 5 of the aa ycreated are rejected and a new individual is created in its place.
+successful it means that the new population only includes 80% of those created (so 1 in 5 of the 'aa's created are rejected and a new individual is created in its place.
 
 Computes 500 generations or until allele “a” disappears from the population.
 Draws a plot of ‘AA’, ‘Aa’, and ‘aa’. 
