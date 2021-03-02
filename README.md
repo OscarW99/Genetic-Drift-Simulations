@@ -16,7 +16,7 @@ Produces a plot that shows the change in allele frequency with each generation, 
 
 
 
-# **Simulation 2 **
+# **Simulation 2**
 
 Start with population of 100.
 This time there are 2 alleles for a gene ‘A’ present in each individual. The
