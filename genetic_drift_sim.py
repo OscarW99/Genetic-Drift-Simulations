@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Nov  7 11:31:51 2020
-
 @author: oscar
 """
 
