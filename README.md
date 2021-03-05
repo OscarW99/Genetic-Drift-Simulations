@@ -12,6 +12,7 @@ computes 1000 generations where with each generation an allele from the current 
 The random selection occurs the same number of times as the population size (100) so that the new and original populations are the same size.
 
 If either of the alleles is completely lost from the population then no further generations are completed.
+
 Produces a plot that shows the change in allele frequency with each generation, up to the 1000 generations or when either allele is lost.
 
 
